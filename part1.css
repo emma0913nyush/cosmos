@@ -1,0 +1,28 @@
+.box{
+  position:absolute;
+  right:0px;
+  margin-top:2%;
+}
+
+a:link,a:visited{
+  background-color: whitesmoke;
+  border: 1px solid grey;
+  font-size: 16px;
+  margin-left: 2%; 
+  padding:1% 2%;
+  width:3%;
+  font-family: verdana; 
+  color:grey;
+  text-decoration: none;
+  text-decoration-color: none;
+}
+
+a:hover{
+  background-color: grey;
+  color:white;
+}
+audio{
+  margin-left:70%; 
+  opacity:0.5;
+
+}
